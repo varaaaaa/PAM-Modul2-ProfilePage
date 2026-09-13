@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.praktikum2"
+    namespace = "com.example.praktikummodul2"
     compileSdk {
         version = release(37)
     }
